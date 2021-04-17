@@ -4,4 +4,4 @@
 *.workspace
 /.codelite
 Makefile
-/Debug
+**/Debug
