@@ -1,1 +1,0 @@
-### This example shows the time difference between using a constructor body to initialize object and a constructor list to initialize it. However, there seems to be no time difference between this two and both of them display 0, since my PC is not able to calculate the time when constructing two objects, since both of them are created so fast
