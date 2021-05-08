@@ -12,10 +12,10 @@ public:
 	void setNumberOfResponsibleProjects(int projectNumber) {*numberOfResponsibleProjects = projectNumber;}
 
 private:
-	int yearsOfExperience;
-	float salary;
-	std::string name;
-	int* numberOfResponsibleProjects;
+	int yearsOfExperience {0};
+	float salary {0};
+	std::string name {};
+	int* numberOfResponsibleProjects {nullptr};
 };
 
 // Regular constructor for the engineer class

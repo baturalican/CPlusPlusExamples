@@ -11,8 +11,8 @@ public:
 	House(const House&);
 	~House();
 private:
-	short doorNumber;
-	short* roomNumber;
+	short doorNumber {0};
+	short* roomNumber {nullptr};
 };
 
 // Regular Constructor

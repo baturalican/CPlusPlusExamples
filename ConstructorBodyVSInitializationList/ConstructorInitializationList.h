@@ -10,7 +10,7 @@ public:
 
 	}
 private:
-	std::string name;
-	int id;
-	short age;
+	std::string name {};
+	int id {0};
+	short age {0};
 };

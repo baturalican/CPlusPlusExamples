@@ -12,9 +12,9 @@ public:
 	void setNumberOfCoursesTought(int numCoursesTought) {*numberOfCoursesTought = numCoursesTought;}
 	
 private:
-	std::string name;
-	int age;
-	int* numberOfCoursesTought;
+	std::string name {};
+	int age {0};
+	int* numberOfCoursesTought {nullptr};
 };
 
 // Our regular constructor which creates a storage for its pointer variable (numberOfCoursesTought) on the heap
