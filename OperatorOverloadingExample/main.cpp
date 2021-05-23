@@ -13,6 +13,7 @@ int main()
 	b.displayAnimal();
 	
 	a = b;
+	a = Animal{3, "Lizzardy", VertebrateType::reptile};
 	
 	std::cout << "\n****************After the assignment****************" << std::endl;
 	

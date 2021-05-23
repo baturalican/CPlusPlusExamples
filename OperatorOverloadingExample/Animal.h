@@ -9,15 +9,20 @@ public:
 	Animal();
 	Animal(int, char* , VertebrateType);
 	Animal(const Animal&);
+	Animal(Animal&&);
 	~Animal();
 	
-	// Definition of overloaded assignment operator
+	// Definition of the overloaded COPY assignment operator
 	Animal& operator=(const Animal&);
+	
+	// Definition of the overloaded MOVE assignment operator
+	Animal& operator=(Animal&&);
 	
 	void displayAnimal() const;
 	int getAge() const;
 	const char* getName() const;
 	VertebrateType getType() const;
+	
 private:
 	int age;
 	char* name;
