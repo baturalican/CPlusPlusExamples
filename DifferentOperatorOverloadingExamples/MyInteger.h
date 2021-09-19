@@ -5,6 +5,8 @@
 
 class MyInteger
 {
+	friend std::ostream& operator<<(std::ostream& ,const MyInteger&);
+	friend std::istream& operator>>(std::istream& ,MyInteger&);
 public:
 	MyInteger(int);
 	~MyInteger();

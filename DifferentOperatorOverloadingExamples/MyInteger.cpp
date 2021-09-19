@@ -24,6 +24,12 @@ bool MyInteger::operator ==(const MyInteger& rhs) const {
 
 std::ostream& operator<<(std::ostream& output, const MyInteger& rhs) {
 	output << rhs.value;
+	return output;
+}
+
+std::istream& operator>>(std::istream& input, MyInteger& rhs) {
+	input >> rhs.value;
+	return input;
 }
 
 
