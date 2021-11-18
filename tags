@@ -1,1 +1,4 @@
-main	D:\ORION\ENGINEERING\COMPUTER ENGINEERING\PERSONAL INTERESTS\C++\Projects\CPlusPlusExamples\TemplateExample\main.cpp	/^int main()$/;"	function	line:3	signature:()	returns:int 
+SPECIAL_ACCOUNT_H	D:\ORION\ENGINEERING\COMPUTER ENGINEERING\PERSONAL INTERESTS\C++\Projects\CPlusPlusExamples\InheritanceExample\SpecialAccount.h	/^#define SPECIAL_ACCOUNT_H$/;"	macro	line:2
+SpecialAccount	D:\ORION\ENGINEERING\COMPUTER ENGINEERING\PERSONAL INTERESTS\C++\Projects\CPlusPlusExamples\InheritanceExample\SpecialAccount.h	/^class SpecialAccount$/;"	class	line:4
+SpecialAccount	D:\ORION\ENGINEERING\COMPUTER ENGINEERING\PERSONAL INTERESTS\C++\Projects\CPlusPlusExamples\InheritanceExample\SpecialAccount.h	/^	SpecialAccount();$/;"	prototype	line:7	class:SpecialAccount	access:public	signature:()
+~SpecialAccount	D:\ORION\ENGINEERING\COMPUTER ENGINEERING\PERSONAL INTERESTS\C++\Projects\CPlusPlusExamples\InheritanceExample\SpecialAccount.h	/^	~SpecialAccount();$/;"	prototype	line:8	class:SpecialAccount	access:public	signature:()
