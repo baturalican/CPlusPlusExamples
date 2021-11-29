@@ -1,7 +1,7 @@
 #include <iostream>
 #include "Account.h"
 
-Account::Account() : money{0} {
+Account::Account() : dummyPublicData{0}, money{0}, phoneNumber{"5xx-xxx-xx-xx"} {
 }
 
 Account::~Account() {

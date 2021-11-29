@@ -21,3 +21,7 @@ bool SpecialAccount::withdraw(double amount) {
 	return false;
 }
 
+void SpecialAccount::setPhoneNumber(std::string phone) {
+	// We can directly access phoneNumber property of Account class here, cuz it is protected and we publicly inherited our SpecialAccount class
+	phoneNumber = phone;
+}
