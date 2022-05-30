@@ -5,4 +5,4 @@
 /.codelite
 Makefile
 **/Debug
-*.clang-format
+.clang-format
