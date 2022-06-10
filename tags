@@ -1,4 +1,1 @@
-FOOTBALLVIRTUAL_H	D:\ORION\ENGINEERING\COMPUTER ENGINEERING\PERSONAL INTERESTS\C++\Projects\CPlusPlusExamples\VirtualFunctionExample\FootballVirtual.h	/^#define FOOTBALLVIRTUAL_H$/;"	macro	line:2
-FootballVirtual	D:\ORION\ENGINEERING\COMPUTER ENGINEERING\PERSONAL INTERESTS\C++\Projects\CPlusPlusExamples\VirtualFunctionExample\FootballVirtual.h	/^class FootballVirtual$/;"	class	line:4
-FootballVirtual	D:\ORION\ENGINEERING\COMPUTER ENGINEERING\PERSONAL INTERESTS\C++\Projects\CPlusPlusExamples\VirtualFunctionExample\FootballVirtual.h	/^	FootballVirtual();$/;"	prototype	line:7	class:FootballVirtual	access:public	signature:()
-~FootballVirtual	D:\ORION\ENGINEERING\COMPUTER ENGINEERING\PERSONAL INTERESTS\C++\Projects\CPlusPlusExamples\VirtualFunctionExample\FootballVirtual.h	/^	~FootballVirtual();$/;"	prototype	line:8	class:FootballVirtual	access:public	signature:()
+main	D:\ORION\ENGINEERING\COMPUTER ENGINEERING\PERSONAL INTERESTS\C++\Projects\CPlusPlusExamples\PureVirtualFunctionExample\main.cpp	/^int main()$/;"	function	line:3	signature:()	returns:int 
