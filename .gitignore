@@ -1,8 +1,2 @@
-*.txt
-*.mk
-*.project
-*.workspace
-/.codelite
-Makefile
-**/Debug
-.clang-format
+**/*.exe
+/.vscode
